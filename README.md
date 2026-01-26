@@ -14,7 +14,7 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
 ## 🛡️ Security Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/sentinel.png" width="48" title="Microsoft Sentinel" />
+  <img src="Assets/Splunk-Logo.png" width="48" title="Microsoft Sentinel" />
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/splunk.png" width="48" title="Splunk" />
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/crowdstrike.png" width="48" title="CrowdStrike Falcon" />
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/darktrace.png" width="48" title="Darktrace" />
