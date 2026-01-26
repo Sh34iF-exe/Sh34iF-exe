@@ -25,16 +25,6 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
   <img src="Assets/azure ad.png" width="48" title="Azure Ad" />
 </p>
 
-**Microsoft Defender XDR | CrowdStrike Falcon | SentinelOne**
-
-**SIEM:** Splunk, Microsoft Sentinel  
-**EDR/XDR:** Microsoft Defender XDR, SentinelOne, CrowdStrike Falcon  
-**Threat Intelligence:** VirusTotal, Cisco Talos, AbuseIPDB  
-**Network & Analysis:** Palo Alto Firewalls, Darktrace, Wireshark  
-**IAM & Endpoint:** Active Directory, Entra ID, Microsoft Intune  
-**Frameworks:** MITRE ATT&CK, Cyber Kill Chain, NIST CSF  
-**OS & Scripting:** Windows, Linux | Python, Bash  
-
 ## 🎯 Current Focus
 - Incident Response & Threat Investigation  
 - Detection Engineering.  
