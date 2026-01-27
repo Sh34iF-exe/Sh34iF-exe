@@ -9,7 +9,7 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sherif7)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:sherif07@protonmail.com)
-[![GitHub Follow](https://img.shields.io/github/followers/your-github-username?label=Follow&style=flat&logo=github)](https://github.com/Sh34iF.exe)
+[![GitHub Follow](https://img.shields.io/github/followers/your-github-username?label=Follow&style=flat&logo=github)](https://github.com/Sh34iF-exe)
 
 ## ⚙️ Tech Stack
 
