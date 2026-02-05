@@ -21,7 +21,7 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
   <img src="Assets/Splunk-Logo.png" height="50" title="Splunk" />
   <img src="Assets/CrowdStrike-Logo_r.png" height="50" title="Crowdstrike" />
   <img src="Assets/Darktrace logo.png" height="50" title="Darktrace" />
-  <img src="Assets/defender.svg" title="Microsoft Defender XDR" />
+  <img src="Assets/defender_logo.svg" title="Microsoft Defender XDR" />
   <img src="Assets/wireshark.png" height="50" title="Wireshark" />
   <img src="Assets/nmap.png" height="50" title="nmap" />
   <img src="Assets/Metasploit.png" height="50" title="Metasploit" />
