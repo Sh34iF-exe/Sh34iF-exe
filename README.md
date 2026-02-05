@@ -18,14 +18,14 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
 ## 🛡️ Security Stack
 
 <p align="left">
-  <img src="Assets/Splunk-Logo.png" width="54" title="Splunk" />
+  <img src="Assets/Splunk-Logo.png" height="48" title="Splunk" />
   <img src="Assets/CrowdStrike-Logo_r.png" width="54" title="Crowdstrike" />
   <img src="Assets/Darktrace logo.png" width="48" title="Darktrace" />
-  <img src="Assets/Windows-defender.png" width="54" title="Microsoft Defender XDR" />
+  <img src="Assets/Windows-defender.png" height="48" title="Microsoft Defender XDR" />
   <img src="Assets/wireshark.png" width="54" title="Wireshark" />
   <img src="Assets/nmap.png" width="54" title="nmap" />
   <img src="Assets/Metasploit.png" width="54" title="Metasploit" />
-  <img src="Assets/Burp logo.png" width="48" title="BurpSuite" />
+  <img src="Assets/Burp logo.png" height="48" title="BurpSuite" />
   <img src="Assets/azure ad.png" width="48" title="Azure Ad" />
 </p>
 
