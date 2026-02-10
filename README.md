@@ -18,10 +18,10 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
 ## 🛡️ Security Stack
 
 <p align="left">
-  <img src="Assets/Splunk_logo.svg" height="50" title="Splunk" style="margin-right:6px;" />
-  <img src="Assets/Crowdsritke_logo.svg" height="50" title="Crowdstrike" style="margin-right:6px;" />
-  <img src="Assets/Darktrace_logo.svg" height="50" title="Darktrace" style="margin-right:6px;"/>
-  <img src="Assets/defender_logo.svg" title="Microsoft Defender XDR" />
+  <img src="Assets/Splunk_logo.svg" height="50" title="Splunk" style="margin-right:10px;" />
+  <img src="Assets/Crowdsritke_logo.svg" height="50" title="Crowdstrike" style="margin-right:10px;" />
+  <img src="Assets/Darktrace_logo.svg" height="50" title="Darktrace" style="margin-right:12px;"/>
+  <img src="Assets/defender_logo.svg" title="Microsoft Defender XDR" style="margin-right:12px;" />
   <img src="Assets/wireshark_logo.svg" height="50" title="Wireshark" />
   <img src="Assets/nmap_logo.svg" height="50" title="nmap" />
   <img src="Assets/Metasploit_logo.svg" height="50" title="Metasploit" />
