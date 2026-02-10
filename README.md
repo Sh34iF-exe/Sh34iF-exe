@@ -29,6 +29,11 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
   <img src="Assets/Azure AD logo.svg" height="50" title="Azure Ad" />
 </p>
 
+## 🛡️ Test
+
+  ![Splunk](Assets/Splunk_logo.svg)
+  ![Crowdstrike](Assets/Crowdsritke_logo.svg)
+  ![Darktrace](Assets/Darktrace_logo.svg)
 
 ## 🎯 Current Focus
 - Incident Response & Threat Investigation  
