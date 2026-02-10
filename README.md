@@ -39,7 +39,6 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
   ![Nmap](Assets/nmap_logo.svg)
   ![Metasploit](Assets/Metasploit_logo.svg)
   ![Metasploit](Assets/burpsuite_logo.svg)
-  ![AzureAD](Assets/Azure AD logo.svg) 
 
 
 ## 🎯 Current Focus
