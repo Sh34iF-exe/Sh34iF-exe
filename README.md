@@ -31,9 +31,6 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
 
 
 <svg viewBox="0 0 24 24" xmlns="Assets/Splunk_logo.svg">
-<svg viewBox="0 0 24 24" xmlns="Assets/Crowdsritke_logo.svg">
-<svg viewBox="0 0 48 48" xmlns="Assets/Darktrace_logo.svg">
-<svg viewBox="0 0 48 48" xmlns="Assets/defender_logo.svg">
 
 ## 🎯 Current Focus
 - Incident Response & Threat Investigation  
