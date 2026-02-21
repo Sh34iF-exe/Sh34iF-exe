@@ -32,11 +32,16 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
 
 ## 🏆 Certifications
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3E2C?style=for-the-badge&logo=comptia&logoColor=white)](YOUR_CERT_LINK)
-[![Palo Alto Cortex XDR](https://img.shields.io/badge/Palo%20Alto-Cortex%20XDR-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](YOUR_CERT_LINK)
-[![Palo Alto Cortex XSIAM](https://img.shields.io/badge/Palo%20Alto-Cortex%20XSIAM-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](YOUR_CERT_LINK)
-[![eJPT - Pursuing](https://img.shields.io/badge/eJPT-Pursuing-2EA44F?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
-[![ICCA - Pursuing](https://img.shields.io/badge/ICCA-Pursuing-2EA44F?style=for-the-badge&logo=isc2&logoColor=white)](#)
+### ✅ Certified
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3E2C?style=for-the-badge&logo=comptia&logoColor=white)](YOUR_LINK)
+![Status](https://img.shields.io/badge/Status-Certified-success?style=flat-square)
+
+[![Palo Alto Cortex XDR](https://img.shields.io/badge/Palo%20Alto-Cortex%20XDR-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](YOUR_LINK)
+![Status](https://img.shields.io/badge/Status-Certified-success?style=flat-square)
+
+[![Palo Alto Cortex XSIAM](https://img.shields.io/badge/Palo%20Alto-Cortex%20XSIAM-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](YOUR_LINK)
+![Status](https://img.shields.io/badge/Status-Certified-success?style=flat-square)
 
 ## 🎯 Current Focus
 - Incident Response & Threat Investigation  
