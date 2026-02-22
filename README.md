@@ -34,7 +34,7 @@ I have 2.5+ years of hands-on experience working in enterprise SOC environments,
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3E2C?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/20d62b74-1cb0-4080-a0e3-4c10236eca3f/public_url)
 [![Palo Alto Cortex XDR](https://img.shields.io/badge/Palo%20Alto-Cortex%20XDR-F04E23?style=flat-square&logo=paloaltonetworks&logoColor=white)](https://www.linkedin.com/in/sherif7/overlay/Certifications/2144241681/treasury/?profileId=ACoAADTKQw0BH5LMEcFBU2eCL2GUcPpSehCL0eQ)
-[![Palo Alto Cortex XSIAM](https://img.shields.io/badge/Palo%20Alto-Cortex%20XSIAM-F04E23?style=flat-square&logo=paloaltonetworks&logoColor=white)}](https://www.linkedin.com/in/sherif7/overlay/Certifications/117582628/treasury/?profileId=ACoAADTKQw0BH5LMEcFBU2eCL2GUcPpSehCL0eQ)
+[![Palo Alto Cortex XSIAM](https://img.shields.io/badge/Palo%20Alto-Cortex%20XSIAM-F04E23?style=flat-square&logo=paloaltonetworks&logoColor=white)](https://www.linkedin.com/in/sherif7/overlay/Certifications/117582628/treasury/?profileId=ACoAADTKQw0BH5LMEcFBU2eCL2GUcPpSehCL0eQ)
 
 [View all Certifications](https://github.com/Sh34iF-exe/Certifications)
 
