@@ -3,7 +3,7 @@
 
 **A SOC Analyst by profession and a Penetration Tester by passion.**
 
-I have 2.5+ years of hands-on experience working in enterprise SOC environments, responding to incidents, and improving detection capabilities using SIEM and EDR platforms. Beyond my day-to-day role, I actively explore offensive security through hands-on labs and attack simulations to better understand adversary techniques and strengthen defensive response.
+I have around 3+ years of hands-on experience working in enterprise SOC environments, responding to incidents, and improving detection capabilities using SIEM and EDR platforms. Beyond my day-to-day role, I actively explore offensive security through hands-on labs and attack simulations to better understand adversary techniques and strengthen defensive response.
 
 🤝 Reachout to Me
 
