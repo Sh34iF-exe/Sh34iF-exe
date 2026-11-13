@@ -33,7 +33,7 @@ I have around 3+ years of hands-on experience working in enterprise SOC environm
 ## 🏆 Certifications
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3E2C?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/20d62b74-1cb0-4080-a0e3-4c10236eca3f/public_url)
-[![Splunk Certified Defense Analyst](https://img.shields.io/badge/Splunk-Certified%20Cybersecurity%20Defense%20Analyst-65A637?style=flat-square&logo=splunk&logoColor=white)](h[ttps://www.credly.com/badges/YOUR-BADGE-ID/public_url](https://www.credly.com/badges/da8bf516-e2f1-45df-b65c-9a0441de8641/public_url))
+[![Splunk Cybersecurity Defense Analyst](https://img.shields.io/badge/Splunk-Cybersecurity%20Defense%20Analyst-65A637?style=flat-square&logo=splunk&logoColor=white)](https://www.credly.com/badges/da8bf516-e2f1-45df-b65c-9a0441de8641/public_url)
 [![Palo Alto Cortex XDR](https://img.shields.io/badge/Palo%20Alto-Cortex%20XDR-F04E23?style=flat-square&logo=paloaltonetworks&logoColor=white)](https://www.linkedin.com/in/sherif7/overlay/Certifications/2144241681/treasury/?profileId=ACoAADTKQw0BH5LMEcFBU2eCL2GUcPpSehCL0eQ)
 [![Palo Alto Cortex XSIAM](https://img.shields.io/badge/Palo%20Alto-Cortex%20XSIAM-F04E23?style=flat-square&logo=paloaltonetworks&logoColor=white)](https://www.linkedin.com/in/sherif7/overlay/Certifications/117582628/treasury/?profileId=ACoAADTKQw0BH5LMEcFBU2eCL2GUcPpSehCL0eQ)
 
